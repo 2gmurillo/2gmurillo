@@ -24,9 +24,7 @@ I am a back-end developer with experience working on a development environment b
 
 ## &nbsp;&nbsp;My projects:
 - &nbsp;&nbsp;<a href="https://app-ventus.herokuapp.com/">ventusdex</a> was the first project I ever build. <a href="https://github.com/2gmurillo/app-ventus/">Here</a> you can find the repository
-
 - &nbsp;&nbsp;With <a href="https://github.com/2gmurillo/ventus/">this</a> project I was able to get hired in my first job as a web developer.
-
 - &nbsp;&nbsp;<a href="https://github.com/2gmurillo/Sistema-de-evaluaci-n/">This</a> was my first challenge on my path as a Platzi Master.
 
 ## &nbsp;&nbsp;My stats:
