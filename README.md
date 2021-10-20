@@ -1,9 +1,9 @@
 ![Screenshot from 2021-10-19 19-51-00](https://user-images.githubusercontent.com/60891375/138010099-7e9e440b-d6ab-4be4-b1b1-b8b25b818558.png)
 
-### About Me
+## &nbsp;&nbsp;About me:
 I am a back-end developer with experience working on a development environment based on Laravel framework. Also I have worked with agile methodologies such as SCRUM. But actually I'm interested on technologies such as Python and GO. I am constantly studying to improve my skills so that I can be part of a great software development team.
 
-## 🎯 &nbsp;&nbsp;Some technologies I use:
+## &nbsp;&nbsp;Some technologies I use:
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />&nbsp;&nbsp;
@@ -22,4 +22,10 @@ I am a back-end developer with experience working on a development environment b
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" alt="Jira" />&nbsp;&nbsp;  
 </p>
 
+## &nbsp;&nbsp;My projects:
+&nbsp;&nbsp;<a href="https://app-ventus.herokuapp.com/">This</a> was the first project I ever build. <a href="https://github.com/2gmurillo/app-ventus/">This</a>
+&nbsp;&nbsp;<a href="https://github.com/2gmurillo/ventus/">This</a> This was the first project I ever build.
+&nbsp;&nbsp;<a href="https://github.com/2gmurillo/Sistema-de-evaluaci-n/">This</a> This was the first project I ever build.
+
+## &nbsp;&nbsp;My stats:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=2gmurillo)](https://github.com/anuraghazra/github-readme-stats)
