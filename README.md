@@ -24,7 +24,9 @@ I am a back-end developer with experience working on a development environment b
 
 ## &nbsp;&nbsp;My projects:
 &nbsp;&nbsp;<a href="https://app-ventus.herokuapp.com/">This</a> was the first project I ever build. <a href="https://github.com/2gmurillo/app-ventus/">This</a>
+
 &nbsp;&nbsp;<a href="https://github.com/2gmurillo/ventus/">This</a> This was the first project I ever build.
+
 &nbsp;&nbsp;<a href="https://github.com/2gmurillo/Sistema-de-evaluaci-n/">This</a> This was the first project I ever build.
 
 ## &nbsp;&nbsp;My stats:
