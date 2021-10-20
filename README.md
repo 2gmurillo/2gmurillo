@@ -18,16 +18,16 @@ I am a back-end developer with experience working on a development environment b
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/github%20-%23000.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white" alt="Bitbucket" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" alt="Jira" />&nbsp;&nbsp;  
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />&nbsp;&nbsp;
 </p>
 
 ## &nbsp;&nbsp;My projects:
-&nbsp;&nbsp;<a href="https://app-ventus.herokuapp.com/">This</a> was the first project I ever build. <a href="https://github.com/2gmurillo/app-ventus/">This</a>
+&nbsp;&nbsp;<a href="https://app-ventus.herokuapp.com/">ventusdex</a> was the first project I ever build. <a href="https://github.com/2gmurillo/app-ventus/">here</a> you can find the repository
 
-&nbsp;&nbsp;<a href="https://github.com/2gmurillo/ventus/">This</a> This was the first project I ever build.
+&nbsp;&nbsp;With <a href="https://github.com/2gmurillo/ventus/">this</a> project I was able to get hired in my first job as a full stack developer.
 
-&nbsp;&nbsp;<a href="https://github.com/2gmurillo/Sistema-de-evaluaci-n/">This</a> This was the first project I ever build.
+&nbsp;&nbsp;<a href="https://github.com/2gmurillo/Sistema-de-evaluaci-n/">This</a> was my first challenge on my path as Platzi Master.
 
 ## &nbsp;&nbsp;My stats:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=2gmurillo)](https://github.com/anuraghazra/github-readme-stats)
