@@ -4,8 +4,8 @@
 I am a back-end developer with experience working on a development environment based on Laravel framework. I also have worked with agile methodologies such as SCRUM. And I'm constantly studying to improve my skills so that I can be part of a great software development team. Actually, I'm interested on technologies such as Python and GO, and I hope one day to contribute to the development world with one of these tools.
 
 ## &nbsp;&nbsp;Contact:
-- :envelope: 2gmurillo@gmail.com
-- :bust_in_silhouette: <a href="https://www.linkedin.com/in/juan-gonzalo-murillo-mu%C3%B1oz-712535192/">LinkedIn Profile</a>
+:envelope: 2gmurillo@gmail.com
+:bust_in_silhouette: <a href="https://www.linkedin.com/in/juan-gonzalo-murillo-mu%C3%B1oz-712535192/">LinkedIn Profile</a>
 
 ## &nbsp;&nbsp;Some technologies I use:
 <p align="center">
